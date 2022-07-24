@@ -4,10 +4,12 @@
     <TargetFramework>net472</TargetFramework>
 
     <IsPackable>false</IsPackable>
+	  <PublishChromeDriver>true</PublishChromeDriver>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="DotNetSeleniumExtras.WaitHelpers" Version="3.11.0" />
+    <PackageReference Include="Microsoft.TestPlatform.TestHost" Version="17.4.0-preview-20220707-01" />
     <PackageReference Include="NUnit" Version="3.12.0" />
     <PackageReference Include="NUnit3TestAdapter" Version="3.16.1" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />

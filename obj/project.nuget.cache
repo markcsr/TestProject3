@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "sHI3A5vZLpaQfX9M7wb0kIQiy22b81i661NCizUUVRFZ4Et5yCgHjCMRTjyV6SsMuFZIEDcnFEddKgOVTSZ15Q==",
+  "dgSpecHash": "cLULRV8iIvNkQPtIwSeT1kMURFx/vDxQp+8OAcGD/IGHB3CFEBFWMnYVwVo/Q6qj2ebupI2GBDVi8tbtdj6rEg==",
   "success": true,
   "projectFilePath": "D:\\Work\\For test\\TestProject3\\TestProject3\\TestProject3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chandrasingh\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\chandrasingh\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\chandrasingh\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\chandrasingh\\.nuget\\packages\\microsoft.testplatform.testhost\\17.4.0-preview-20220707-01\\microsoft.testplatform.testhost.17.4.0-preview-20220707-01.nupkg.sha512",
     "C:\\Users\\chandrasingh\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
     "C:\\Users\\chandrasingh\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
     "C:\\Users\\chandrasingh\\.nuget\\packages\\selenium.support\\4.3.0\\selenium.support.4.3.0.nupkg.sha512",
